@@ -1,0 +1,58 @@
+('C:\\Users\\Shin-Nyum\\Desktop\\fastcampus\\Part 1. 파이썬 라이브러리를 활용한 기초 프로젝트 '
+ '10개\\10. [GUI] 블로그 프로그램 만들기\\build\\user_input_gui\\user_input_gui.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Shin-Nyum\\Desktop\\fastcampus\\Part 1. 파이썬 라이브러리를 활용한 기초 프로젝트 '
+   '10개\\10. [GUI] 블로그 프로그램 만들기\\build\\user_input_gui\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Shin-Nyum\\Desktop\\fastcampus\\Part 1. 파이썬 라이브러리를 활용한 기초 프로젝트 '
+   '10개\\10. [GUI] 블로그 프로그램 만들기\\build\\user_input_gui\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Shin-Nyum\\Desktop\\fastcampus\\Part 1. 파이썬 라이브러리를 활용한 기초 프로젝트 '
+   '10개\\10. [GUI] 블로그 프로그램 '
+   '만들기\\build\\user_input_gui\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Shin-Nyum\\Desktop\\fastcampus\\Part 1. 파이썬 라이브러리를 활용한 기초 프로젝트 '
+   '10개\\10. [GUI] 블로그 프로그램 '
+   '만들기\\build\\user_input_gui\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Shin-Nyum\\Desktop\\fastcampus\\Part 1. 파이썬 라이브러리를 활용한 기초 프로젝트 '
+   '10개\\10. [GUI] 블로그 프로그램 '
+   '만들기\\build\\user_input_gui\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Shin-Nyum\\Desktop\\fastcampus\\Part 1. 파이썬 라이브러리를 활용한 기초 프로젝트 '
+   '10개\\10. [GUI] 블로그 프로그램 '
+   '만들기\\build\\user_input_gui\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Shin-Nyum\\anaconda3\\envs\\fastcampus\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'C:\\Users\\Shin-Nyum\\anaconda3\\envs\\fastcampus\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\Shin-Nyum\\anaconda3\\envs\\fastcampus\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('user_input_gui',
+   'C:\\Users\\Shin-Nyum\\Desktop\\fastcampus\\Part 1. 파이썬 라이브러리를 활용한 기초 프로젝트 '
+   '10개\\10. [GUI] 블로그 프로그램 만들기\\user_input_gui.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
